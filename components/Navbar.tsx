@@ -16,10 +16,10 @@ const Navbar = () => {
           /> */}
         </div>
         <h1 className="text-white text-[25px] font-semibold">
-          Webchain{" "}
+          Nithin Reddy{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
             {" "}
-            Dev{" "}
+            Marthala{" "}
           </span>
         </h1>
       </div>

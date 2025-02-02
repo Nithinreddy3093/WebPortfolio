@@ -92,24 +92,24 @@ export const Socials = [
 ];
 export const Projects = [
   {
-    title: "Modern Nextjs Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/NextWebsite.png",
+    title: "Skill Development Tracker.",
+text: " Designed a web application to assist students in tracking and improving academic and soft skills.",
+    src: "skill_tracker.png",
   },
   {
-    title: "Space Themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/SpaceWebsite.png",
+    title: "Dream Analysis Website",
+    text: "The Dream Analysis Application is a web tool for logging dreams, providing insights through personalized interpretations and community sharing.",
+    src: "dream.png",
   },
   {
     title: "Modern Nextjs Portfolio",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/WebPortfolio.png",
+text: "Hillsafe is a real-time safety app designed to warn drivers about potential hillside accidents, combining advanced app features with in-vehicle system integration for enhanced safety.",
+    src: "hill_safe.png",
   },
   {
-    title: "Matrix themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/Matrix.png",
+    title: "emoji explorer Website",
+    text: "Discover, search, and copy your favorite emojis with ease! Copy individual emojis or select multiple emojis to copy them all at once.",
+    src: "emoji.png",
   },
 ];
 
